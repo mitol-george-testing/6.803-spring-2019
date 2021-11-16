@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b12cf09d-b9c0-3138-5e1b-26e03395d143"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Human Intelligence Enterprise",
+  "course_description": "This course analyzes seminal work directed at the development of a computational understanding of human intelligence, such as work on learning, language, vision, event representation, commonsense reasoning, self reflection, story understanding, and analogy. It reviews visionary ideas of Turing, Minsky, and other influential thinkers and examines the implications of work on brain scanning, developmental psychology, and cognitive psychology. There is an emphasis on discussion and analysis of original papers; students taking the graduate version complete additional exercises and a substantial term project.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.833",
+  "primary_course_number": "6.803",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
